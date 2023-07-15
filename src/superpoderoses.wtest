@@ -4,7 +4,7 @@ describe "Superpoderoses" {
 	
 	/* ACLARACIÓN 
 	 * El test asume todos los objetos como instancias de clases. 
-	 * Si el diseño de la solución utiliza objetos bien conocidos en algunos casos entonces 
+	 * Si el diseño  de la solución utiliza objetos bien conocidos en algunos casos entonces 
 	 * se debe remover la declaración de la variable y la línea en que se sugiere la instanciación.
 	 */
 
